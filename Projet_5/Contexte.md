@@ -1,4 +1,4 @@
-PROJET 5 - Manipulez une base de données avec SQL pour suivre la satisfaction client
+# PROJET 5 - Manipulez une base de données avec SQL pour suivre la satisfaction client
 
 ## Résumé :
 Approfondissement du SQL dans un contexte de distribution (option A) : 
