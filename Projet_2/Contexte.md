@@ -1,3 +1,5 @@
+<img width="1276" height="362" alt="image" src="https://github.com/user-attachments/assets/b02d6abf-839a-4668-ba11-42e3ced4a410" />
+
 # PROJET 2 - Visualisez des données avec Excel
 
 ## Résumé :
