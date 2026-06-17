@@ -8,7 +8,7 @@ Prise en main du parcours de formation : définition de l'objectif professionnel
  - Définir le cadre de la formation
  - Développer la posture d'un BIA
 
-# Soft Skills
+## Soft Skills
 - Autonomie :
   - Autonomie dans l'apprentissage
 - Posture :
