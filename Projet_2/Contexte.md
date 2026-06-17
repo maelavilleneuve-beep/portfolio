@@ -1,4 +1,4 @@
-<img width="1276" height="362" alt="image" src="https://github.com/user-attachments/assets/b02d6abf-839a-4668-ba11-42e3ced4a410" />
+<img width="638" height="181" alt="image" src="https://github.com/user-attachments/assets/b02d6abf-839a-4668-ba11-42e3ced4a410" />
 
 # PROJET 2 - Visualisez des données avec Excel
 
@@ -19,4 +19,4 @@ Analyse de données sportives et création de visualisations accessibles dans Ex
 - Relation client :
   - Sens du client
 
-
+<img width="480" height="275" alt="Projet_2" src="https://github.com/user-attachments/assets/310cc5a4-5adf-4768-a267-9bdf4aa4e23b" />
