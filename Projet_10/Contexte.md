@@ -11,7 +11,9 @@ Projet de synthèse incarnant la posture consultant senior.
 - Élaborer des recommandations business
 
 ## Soft Skills : 
-- Analyser les données d'un segment clientèle / produits
-- Analyser les évolutions du marché
-- Cadrer une demande BI (besoins, contraintes, exigences)
-- Élaborer des recommandations business
+- Autonomie complète
+- Pensée stratégique (SWOT, PESTEL)
+- Prise de recul et vision marché
+- Cadrage d'une demande ambiguë
+- Posture conseil senior
+
