@@ -1,3 +1,6 @@
+<img width="232" height="153" alt="Capture d&#39;écran 2026-06-27 191347" src="https://github.com/user-attachments/assets/6c522852-4aad-4ec0-bcb0-42e113daaabb" />
+
+
 # Projet 6 - Comment fiabiliser les données de stock pour mieux piloter le chiffre d'affaires ?
 
 ## Résumé : 
