@@ -1,4 +1,4 @@
-# Projet 6 - Optimisez la gestion et nettoyez les données du stock d'une boutique
+# Projet 6 - Comment fiabiliser les données de stock pour mieux piloter le chiffre d'affaires ?
 
 ## Résumé : 
 Nettoyage et analyse exploratoire de données de stock avec Python (Pandas, Matplotlib, Seaborn). 
