@@ -1,4 +1,4 @@
-# PROJET 9 - Améliorez les performances de l'entreprise
+# PROJET 9 - Comment identifier les segments de vente les plus rentables et mesurer l'impact réel des promotions ?
 
 ## Résumé :
 Mission pour un distributeur de vins (Bottleneck) : 
