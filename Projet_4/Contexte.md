@@ -1,3 +1,5 @@
+<img width="399" height="141" alt="image" src="https://github.com/user-attachments/assets/5c934c72-6c67-4dad-a8be-1c1f2cf01f10" />
+
 # PROJET 4 - Comment garantir que la collecte des données clients reste conforme au RGPD ?
 
 ## Résumé :
