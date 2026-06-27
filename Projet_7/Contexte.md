@@ -1,4 +1,7 @@
-# Projet 7 - Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets
+<img width="253" height="136" alt="image" src="https://github.com/user-attachments/assets/572bebdb-0696-4aea-ae46-f82bd264a85f" />
+
+
+# Projet 7 - Comment suivre en un coup d'œil l'avancement, les retards et les dépassements de budget des projets internationaux ?
 
 ## Résumé : 
 Conception d'un tableau de bord de suivi de portefeuille projets pour un client fictif (Sanitoral), de la collecte des user stories jusqu'à la présentation en storytelling. 
