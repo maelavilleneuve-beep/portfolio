@@ -1,4 +1,7 @@
-# PROJET 5 - Manipulez une base de données avec SQL pour suivre la satisfaction client
+<img width="310" height="80" alt="image" src="https://github.com/user-attachments/assets/d4867a38-fe80-4613-80b6-292b076f7012" />
+
+
+# PROJET 5 - Comment suivre la satisfaction de mes clients (NPS) à partir des données des magasins ?
 
 ## Résumé :
 Approfondissement du SQL dans un contexte de distribution (option A) : 
