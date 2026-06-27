@@ -1,3 +1,6 @@
+<img width="232" height="153" alt="Capture d&#39;écran 2026-06-27 191347" src="https://github.com/user-attachments/assets/2e1ed007-4056-4186-a4a7-37191168131c" />
+
+
 # PROJET 9 - Comment identifier les segments de vente les plus rentables et mesurer l'impact réel des promotions ?
 
 ## Résumé :
