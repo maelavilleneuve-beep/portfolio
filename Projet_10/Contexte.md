@@ -1,4 +1,8 @@
-# PROJET 10 : Analysez une demande business et identifiez les segments du marché
+<img width="207" height="255" alt="Image1" src="https://github.com/user-attachments/assets/01313068-7bfc-45f3-8014-46113eaef852" />
+
+
+
+# PROJET 10 : Sur quel segment de joueurs doit-on concentrer le lancement du prochain jeu vidéo ?
 
 ## Résumé : 
 Analyse stratégique complète d'un marché (option A : jeu vidéo) en totale autonomie : SWOT, PESTEL, analyse des tendances et des segments, recommandations business. 
