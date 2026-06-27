@@ -1,5 +1,4 @@
-
-
+<img width="139" height="99" alt="Capture d&#39;écran 2026-06-27 194408" src="https://github.com/user-attachments/assets/b72a5af7-211a-4471-a236-2515b6bb6daa" />
 
 # PROJET 11 : Comment évaluer la posture de consultant d'un candidat avant même de le rencontrer en entretien ?
 
