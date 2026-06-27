@@ -1,4 +1,7 @@
-# PROJET 8 - Réalisez une analyse de données en Python
+<img width="301" height="135" alt="image" src="https://github.com/user-attachments/assets/8b03d3c8-525a-46f8-bce7-a16bf612e32c" />
+
+
+# PROJET 8 - Comment anticiper l'évolution de la valeur du portefeuille immobilier ?
 
 ## Résumé :
 Analyse du marché immobilier parisien avec Python : 
